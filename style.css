@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap');
+
+body {
+    background-color: yellow;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+img{
+    width: 200px;
+}
+h1{
+    color: rebeccapurple;
+    font-size: 50px;
+    text-align: center;
+
+}
+p span {
+    font-style: italic;
+    background-color: yellow;
+}
+h2{
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    /* */
+}
+main{
+    width: 900px; 
+    /* Largura do conteúdo */
+}
